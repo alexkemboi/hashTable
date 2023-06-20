@@ -1,0 +1,15 @@
+C:\Users\akemboi\source\repos\hashtable\bin\Debug\net8.0\hashtable.exe
+C:\Users\akemboi\source\repos\hashtable\bin\Debug\net8.0\hashtable.deps.json
+C:\Users\akemboi\source\repos\hashtable\bin\Debug\net8.0\hashtable.runtimeconfig.json
+C:\Users\akemboi\source\repos\hashtable\bin\Debug\net8.0\hashtable.dll
+C:\Users\akemboi\source\repos\hashtable\bin\Debug\net8.0\hashtable.pdb
+C:\Users\akemboi\source\repos\hashtable\obj\Debug\net8.0\hashtable.csproj.AssemblyReference.cache
+C:\Users\akemboi\source\repos\hashtable\obj\Debug\net8.0\hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akemboi\source\repos\hashtable\obj\Debug\net8.0\hashtable.AssemblyInfoInputs.cache
+C:\Users\akemboi\source\repos\hashtable\obj\Debug\net8.0\hashtable.AssemblyInfo.cs
+C:\Users\akemboi\source\repos\hashtable\obj\Debug\net8.0\hashtable.csproj.CoreCompileInputs.cache
+C:\Users\akemboi\source\repos\hashtable\obj\Debug\net8.0\hashtable.dll
+C:\Users\akemboi\source\repos\hashtable\obj\Debug\net8.0\refint\hashtable.dll
+C:\Users\akemboi\source\repos\hashtable\obj\Debug\net8.0\hashtable.pdb
+C:\Users\akemboi\source\repos\hashtable\obj\Debug\net8.0\hashtable.genruntimeconfig.cache
+C:\Users\akemboi\source\repos\hashtable\obj\Debug\net8.0\ref\hashtable.dll
